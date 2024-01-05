@@ -1,4 +1,4 @@
-# Project: How To Learn
+# Project: "Оно тебе надо"
 ------
 
 ## Описание: 
