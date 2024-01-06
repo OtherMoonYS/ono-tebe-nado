@@ -17,6 +17,7 @@
     line-height: normal;
     letter-spacing: 0.18px;
     margin: 0 37px 0 26px;
+    text-wrap: nowrap;
 }
 
 .header__links-list {
