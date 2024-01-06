@@ -4,8 +4,9 @@
     align-items: center;
     justify-items: end;
     max-width: 1052px;
-    margin: 92px 24px 96px 24px;
+    margin: 92px 24px 92px 24px;
     padding-right: 60px;
+    padding-top: 4px;
 }
 
 .header__menu {
@@ -15,7 +16,7 @@
     font-weight: 400;
     line-height: normal;
     letter-spacing: 0.18px;
-    margin: 44px 36px 39px 27px;
+    margin: 0 37px 0 26px;
 }
 
 .header__links-list {
@@ -37,7 +38,6 @@
 
 .logo {
     width: 148px;
-    height: 105px;
 }
 
 .address {
@@ -348,6 +348,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    padding-left: 35px;
 }
 
 .footer__menu-list {
