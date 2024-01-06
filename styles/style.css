@@ -17,7 +17,6 @@
     line-height: normal;
     letter-spacing: 0.18px;
     margin: 0 37px 0 26px;
-    text-wrap: nowrap;
 }
 
 .header__links-list {
@@ -136,10 +135,7 @@
     padding: 135px 0 0 0;
     text-wrap: nowrap;
     max-height: fit-content;
-}
-
-.cover__description-text {
-    letter-spacing: 1200px;
+    letter-spacing: normal;
 }
 
 .cover__description-text-extended {
@@ -161,6 +157,7 @@
 .lots {
     margin: 0 24px 146px 24px;
     padding: 0;
+    flex-wrap: wrap;
 }
 
 .lots__heading {
